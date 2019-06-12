@@ -13,7 +13,7 @@ With the filter_query you're able to filter by specific attribute(s) of your sto
 | [`in_array`](#filter-queries/operation-in-array) | Matches **any** value of given array |
 | [`all_in_array`](#filter-queries/operation-all-in-array) | Must match **all** values of given array |
 | [`gt-date`](#filter-queries/operation-gt-date) | Greater than date (Format: `YYYY-mm-dd HH:MM`) |
-| [`lt-date`](#filter-queries/operation-lt-date) | Less than date (Format: `2018-03-03 10:00`) |
+| [`lt-date`](#filter-queries/operation-lt-date) | Less than date (Format: `YYYY-mm-dd HH:MM`) |
 | [`gt-int`](#filter-queries/operation-gt-int) | Greater than integer value |
 | [`lt-int`](#filter-queries/operation-lt-int) | Less than integer value |
 | [`gt-float`](#filter-queries/operation-gt-float) | Greater than float value |
