@@ -19,7 +19,7 @@ Example Object
     "id": 2,
     "name": "Summer Release",
     "release_at": "2025-01-01 01:01",
-    "banches_to_deploy": [9,2]
+    "branches_to_deploy": [9,2]
   }
 }
 ```
